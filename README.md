@@ -2,7 +2,7 @@
 Please cite this paper if you used the codes or dataset:
 Sherafat, B., Rashidi, A. and Asgari, S., 2020, December. Comparison of different beamforming-based approaches for sound source separation of multiple heavy equipment at construction job sites. In 2020 Winter Simulation Conference (WSC) (pp. 2435-2446). IEEE.
 ## Keywords
-1. Beamforming Techniques
+1. Beamforming Techniques:
   Time-delay Beamformer
   Sub-band Phased Shift Beamformer
   Time-delay Linear Constraint Minimum Variance (LCMV) Beamformer
