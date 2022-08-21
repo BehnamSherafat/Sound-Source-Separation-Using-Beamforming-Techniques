@@ -25,12 +25,13 @@ MATLAB
 
 ## Guide to folders and files
 Codes are explained as follows:
-1. **Main file** (SSS_DeepLearning.m): This is the main file to execute.
+1. **Main file** (EquipmentBeamformers.m): This is the main file to execute.
 2. **Inputs:**
-  **Sound Data**
-    Two .WAV files (equipment sound collected on the job site using a microphone)
-      _ori: means original sound
-      _den: means denoised sound
+  Three types of equipment and each equipment has Two .WAV files (equipment sound collected on the job site using a microphone array)
+  1. BIGD9GBulldozer (_den: means denoised sound)
+  2. Excavator (_den: means denoised sound)
+  3. Jackhammer (_den: means denoised sound)
+      
 
 ## Methodology
 ![image](https://user-images.githubusercontent.com/73087167/185807793-cc696857-14ce-40c0-8682-3ca6ca62cc0f.png)
