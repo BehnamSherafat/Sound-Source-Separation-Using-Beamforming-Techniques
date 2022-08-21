@@ -33,15 +33,19 @@ Codes are explained as follows:
   3. Jackhammer (_den: means denoised sound)
       
 
-## Methodology
-![image](https://user-images.githubusercontent.com/73087167/185807793-cc696857-14ce-40c0-8682-3ca6ca62cc0f.png)
+## Delay-and-sum beamforming architecture
+![image](https://user-images.githubusercontent.com/73087167/185808285-706838dd-1e34-4fb6-8f4e-d4e3aee49cf2.png)
+
+## The filter-sum beamformer structure for Frost’s algorithm (Greensted 2010)
+![image](https://user-images.githubusercontent.com/73087167/185808302-b9e70677-d568-414a-8885-3615a0c45d8d.png)
+
+## Data Collection Setup
+![image](https://user-images.githubusercontent.com/73087167/185808313-be3cf812-f015-41b7-a13d-8a0486b40e48.png)
+
+## Comparison of different beamformers
+![image](https://user-images.githubusercontent.com/73087167/185808336-84e29aec-bcf9-4850-8440-86c554ea09df.png)
 
 
-## Results (Hard TFM)
-![image](https://user-images.githubusercontent.com/73087167/185807809-dd383387-a636-4b70-8f94-c43b92f91833.png)
 
-## Results (Soft TFM)
-![image](https://user-images.githubusercontent.com/73087167/185807818-a4dbf015-ef4f-48c3-bbcc-eb753f3cb6f2.png)
 
-## Source Separation Evaluation
-![image](https://user-images.githubusercontent.com/73087167/185807835-7300e7c0-87ae-4d67-a15b-0183756c45e9.png)
+
